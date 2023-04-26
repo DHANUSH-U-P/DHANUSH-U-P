@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DHANUSH-U-P
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Front End 
 - 📫 iamdhanush.offi@gmail.com
 
 <!---
